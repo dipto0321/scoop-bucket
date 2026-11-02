@@ -1,12 +1,12 @@
 {
-    "version": "1.2.3",
+    "version": "1.2.4",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/dipto0321/nodeup/releases/download/v1.2.3/nodeup_1.2.3_windows_amd64.zip",
+            "url": "https://github.com/dipto0321/nodeup/releases/download/v1.2.4/nodeup_1.2.4_windows_amd64.zip",
             "bin": [
                 "nodeup.exe"
             ],
-            "hash": "6cc24d2924fb58733a4c60eab9d8efa7ec5d10e5d9eb1a18318cf4bf1ed980b6"
+            "hash": "10d462888a6217fc1ce11dcb44c816e26042d955a0fc29a4355bbed53b52a522"
         }
     },
     "homepage": "https://github.com/dipto0321/nodeup",
